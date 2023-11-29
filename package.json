@@ -15,10 +15,10 @@
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
     "jade": "^1.11.0",
-    "nylas": "^3.0.0",
+    "nylas": "^5.5.1",
     "redis": "^2.6.2",
     "request": "^2.74.0",
     "sequelize": "^3.24.3",
-    "sqlite3": "^3.1.6"
+    "sqlite3": "^5.0.3"
   }
 }
